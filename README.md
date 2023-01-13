@@ -17,6 +17,7 @@ I am self-driven, hardworking and eager to learn IT student skilled in web and m
 - 💻 HTML, CSS
 
 ## Certificates
+- Microsoft Office Specialist
 https://www.credly.com/badges/e90a8cbd-5456-41ec-b0ab-88d02f56793a/public_url
 
 ## Languages and Tools:
