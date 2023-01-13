@@ -9,13 +9,11 @@ I am self-driven, hardworking and eager to learn IT student skilled in web and m
 - HTML
 - CSS
 - Kotlin
-- React
+- ⚛ React
 - React Native
 - React JS
 - Laravel
-### Prototype
-- Adobe XD
-- Figma
+
 
 
 
