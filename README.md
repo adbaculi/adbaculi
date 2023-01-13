@@ -1,4 +1,4 @@
-### Hi there, I'm Thea!👋
+#### Hi there, I'm Thea!👋
 
 I am self-driven, hardworking and eager to learn IT student skilled in web and mobile application development.  
 
