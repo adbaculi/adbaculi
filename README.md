@@ -14,3 +14,4 @@ I am self-driven, hardworking and eager to learn IT student skilled in web and m
 - 💻 HTML, CSS
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=synthwave “Andres’ Top Languages Card”)
