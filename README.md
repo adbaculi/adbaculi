@@ -2,6 +2,8 @@
 
 I am self-driven, hardworking and eager to learn IT student skilled in web and mobile application development specifically in Front-end development. 
 
+- 🔭 I’m currently working on [AgriKOnnect](https://github.com/adbaculi/AgriKOnnect-Web-FINAL.git)
+
 ## Skills and Experience
 - Python
 - Javascript
@@ -14,10 +16,8 @@ I am self-driven, hardworking and eager to learn IT student skilled in web and m
 - 💻 HTML, CSS
 
 
-<h1 align="center">Hi 👋, I'm Althea</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [AgriKOnnect](https://github.com/adbaculi/AgriKOnnect-Web-FINAL.git)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
