@@ -3,7 +3,8 @@
 I am self-driven, hardworking and eager to learn IT student skilled in web and mobile application development specifically in Front-end development. 
 
 - 🔭 I’m currently working on [AgriKOnnect](https://github.com/adbaculi/AgriKOnnect-Web-FINAL.git)
-- 📫 How to reach me: altheadbaculi6@gmail.com
+- Email : altheadbaculi6@gmail.com
+- LinkedIn: https://www.linkedin.com/in/althea-dianne-baculi-0a8556200/
 
 ## Skills and Experience
 - Python
