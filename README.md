@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Thea!👋
 
-I'm Althea Dianne L. Baculi, a 4th year BS in Information Technology student at Manuel S. Enverga University Foundation.
+I am self-driven, hardworking and eager to learn IT student skilled in web and mobile application development.  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adbaculi)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **adbaculi/adbaculi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
